@@ -86,6 +86,6 @@ object ScalaTest {
       case w:Boolean => s"sex:${w}"
       case _ => "nothing"
     }
-    println(res1)
+    //println(res1)
   }
 }
